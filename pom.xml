@@ -30,5 +30,6 @@
   <modules>
   	<module>naeun</module>
   	<module>seunghyeon</module>
+  	<module>jiwon</module>
   </modules>
 </project>
