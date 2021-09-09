@@ -29,5 +29,6 @@
   </build>
   <modules>
   	<module>naeun</module>
+  	<module>seunghyeon</module>
   </modules>
 </project>
