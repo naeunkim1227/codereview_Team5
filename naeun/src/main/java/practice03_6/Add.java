@@ -1,6 +1,6 @@
-package practice03;
+package practice03_6;
 
-public class Div {
+public class Add {
 	private int a;
 	private int b;
 	public void setValue(int a, int b) {
@@ -9,6 +9,6 @@ public class Div {
 	}
 	
 	public int calculate() {
-		return a / b;
+		return a + b;
 	}
 }

@@ -1,4 +1,4 @@
-package practice03;
+package practice03_1;
 
 public class Member {
 	private String id;

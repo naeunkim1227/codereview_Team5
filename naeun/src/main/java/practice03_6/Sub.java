@@ -1,4 +1,4 @@
-package practice03;
+package practice03_6;
 
 public class Sub {
 	private int a;

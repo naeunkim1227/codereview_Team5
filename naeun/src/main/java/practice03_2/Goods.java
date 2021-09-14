@@ -1,4 +1,4 @@
-package practice03;
+package practice03_2;
 
 public class Goods {
 	private String drink;
