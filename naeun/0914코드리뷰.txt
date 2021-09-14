@@ -1,0 +1,11 @@
+1. practice01 - 4
+	substring,charat,split을 사용해서 변형해보기
+2.practice02 - 4
+	창목씨가 도전하다 실패한 절대값으로, 문제 풀어보기...
+3. prac03 - 2
+	 while 문써서 해보기
+	 3 - 문제 이해했으니 풀기..
+	 4
+	 
+4.
+	

@@ -13,7 +13,7 @@ public class Prob1 {
 		
 		if((a % 3)==0) System.out.println("3의 배수입니다."); 
 		
-		
+		//3의 배수가 아니다. 라고 else 처리 하는것이 좋을듯
 		scanner.close();
 	}
 }
