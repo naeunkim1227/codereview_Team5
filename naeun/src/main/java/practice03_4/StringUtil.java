@@ -1,4 +1,4 @@
-package practice03;
+package practice03_4;
 
 public class StringUtil {
 	public static String concatenate(String[] str) {
